@@ -1,10 +1,9 @@
 <img src="/_media/GitHub Logo.png" alt="Logo of ni" width="256"/>
-
 > Profile Framework for World of Warcraft and its older expansions.
 
-See the [Quick start](/getting-started/quickstart.md) guide for more details.
+See the [Quick start](https://darhanger.github.io/ni/#/getting-started/quickstart) guide for more details.
 
-[Download here](https://github.com/scizzydo/ni/releases)
+[Download here](https://github.com/darhanger/ni/releases)
 
 ## Features
 
@@ -21,20 +20,19 @@ See the [Quick start](/getting-started/quickstart.md) guide for more details.
 
 ## Program Developer
 
-- **Scott**
+- **[Scott](https://github.com/scizzydo) or Scott#1180**
 
 ## Lead Administrator
 
-- **brajevicm**
+- **[brajevicm](https://github.com/brajevicm)**
 
 ## Contributers
 
-- **[DarhangeR](https://github.com/DarhangeR/Ni-Profiles/)**
-- **[Xcesius](https://github.com/Xcesius/Ni-Profiles/)**
+- **[DarhangeR](https://github.com/DarhangeR)**
+- **[Dimonsky](https://github.com/Dimonskynew)**
 - **[NuokHB](https://github.com/NuokHB/ni/tree/master/addon/Rotations)**
-
 - **[Brecherbernd](https://github.com/Brecherbernd/Doomsday)**
-
+- 
 ## Community 👋
 
-Users and the development team are usually in the [Discord Channel](https://discord.gg/BbSE5qw).
+Users and the development team are usually in the [Discord Channel](https://discord.gg/xBFKJc6QRr).
