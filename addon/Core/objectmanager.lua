@@ -51,6 +51,16 @@ objectmanager.objectGUID = function(o)
 		end
 	end
 end
+objectmanager.objectID = function(t)
+	if ni.vars.build == 30300 then
+		if not ni.unit.isplayer(t) then
+			if tonumber(t) then
+				return tonumber((t):sub(8, 12), 16)
+			end
+		end
+	end
+end
+
 local objectsetup = {}
 objectsetup.cache = {}
 objectsetup.cache.__index = {
