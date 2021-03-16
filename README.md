@@ -2,7 +2,7 @@
 
 > Profile Framework for World of Warcraft and its older expansions.
 
-See the [Quick start](https://darhanger.github.io/ni/getting-started/quickstart) guide for more details.
+See the [Quick start](https://darhanger.github.io/ni/#/getting-started/quickstart) guide for more details.
 
 [Download here](https://github.com/darhanger/ni/releases)
 
