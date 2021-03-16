@@ -29,10 +29,10 @@ See the [Quick start](https://darhanger.github.io/ni/#/getting-started/quickstar
 ## Contributers
 
 - **[DarhangeR](https://github.com/DarhangeR)**
+- **[Dimonsky](https://github.com/Dimonskynew)**
 - **[NuokHB](https://github.com/NuokHB/ni/tree/master/addon/Rotations)**
 - **[Brecherbernd](https://github.com/Brecherbernd/Doomsday)**
-- **[Dimonsky](https://github.com/Dimonskynew)**
-
+- 
 ## Community 👋
 
 Users and the development team are usually in the [Discord Channel](https://discord.gg/xBFKJc6QRr).
